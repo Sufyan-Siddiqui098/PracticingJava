@@ -1,4 +1,4 @@
-package CollectionPractice;
+package CollectionStreamAndCollectors.CollectionProblems;
 
 import java.util.*;
 

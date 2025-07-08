@@ -1,9 +1,9 @@
-package CollectionPractice;
+package CollectionStreamAndCollectors.CollectionProblems;
 
-import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class CountFrequencyOfCharacter {
     public static void main(String[] args) {
